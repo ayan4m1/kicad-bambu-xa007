@@ -1175,6 +1175,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1186,6 +1187,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1433,6 +1435,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1444,6 +1447,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1860,7 +1864,7 @@
 		(uuid "ebb6a147-bed3-43cc-9678-f912c9fbbf85")
 	)
 	(gr_text "0"
-		(at 137.5 73.3 0)
+		(at 137.5 64.5 0)
 		(layer "F.SilkS")
 		(uuid "09ae31e8-67af-4912-a70f-5a0a095af5f9")
 		(effects
@@ -1872,7 +1876,7 @@
 		)
 	)
 	(gr_text "I"
-		(at 137.5 64.5 0)
+		(at 137.5 73.3 0)
 		(layer "F.SilkS")
 		(uuid "d8a7ebc9-86fc-46da-82f9-646204261fe3")
 		(effects
